@@ -1,0 +1,41 @@
+h1 {
+	font-size: 46px;
+    font-family: Arial ;
+}
+checkbox{
+  display: flex;
+}
+
+label{
+
+ padding-top: 7px;
+ padding-bottom: 2px;
+ font-size: 21px;
+ font-family: Arial ;
+ display: grid;
+ padding-right: 280px;
+ padding-left: 280px;
+}
+
+body {
+	background-color: #f8d5ad;
+	text-align: center;
+}
+
+
+.btnAdd {
+  background-color: #4CAF50; 
+  border: none;
+  color: white;
+  padding: 5px 35px;
+  text-decoration: none;
+  font-size: 16px;
+}
+.btnDelete {
+  background-color: #ff3939; 
+  border: none;
+  color: white;
+  padding: 3px 15px;
+  font-size: 14px;
+  
+}
